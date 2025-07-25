@@ -1,0 +1,59 @@
+[
+   {
+      "type":"apartment",
+      "kind":"private_room",
+      "address":"Avenue de la République, 120, La Madeleine, FRANCE, 59110, FR",
+      "pricingType":"flat",
+      "flatPrice":58000,
+      "currencyCode":"EUR",
+      "description":"Chambre en colocation située au 120 Avenue de la République, dans un appartement au cœur de La Madeleine.\n\nColocation de 6 chambres, dans un logement meublé et équipé. Chaque chambre est indépendante, avec un bail individuel.\n\nLe logement\n- 7 pièces, 143.5 m²\n- 2 salle(s) de bains\n- Cuisine fonctionnelle et équipée : frigo, micro-ondes, vaisselle, ustensiles, casseroles…\n- Lave-linge et tout le nécessaire pour l’entretien (aspirateur, serpillère, étendoir…)\n- Espaces communs confortables et bien entretenus\n\nLa chambre\n- Meublée, lumineuse, lit 140x200 cm (avec draps), bureau et rangements\n- Accès aux pièces communes, internet, chauffage, électricité, eau chaude et assurance inclus dans les charges\n- Charges comprises, aucune surprise\n\nLocalisation\nDans un quartier vivant et bien desservi, proche des transports et des commerces.\n\nConditions\n- Bail individuel (non solidaire), éligible aux APL\n- Un garant gagnant des revenus nets de 2000 €/mois OU organisme de garantie\n- Séjour minimum : 1 mois\n\nÀ propos de Wellow\nWellow est une initiative qui propose un logement et une communauté : des colocations accessibles, au centre ville, et surtout humaines. Nous hébergeons une communauté de jeunes entre 20 et 35 ans, dans un cadre sécurisé et simple. En plus de l’hébergement, Wellow organise régulièrement des rencontres et des événements sociaux et culturels pour celles et ceux qui souhaitent créer du lien dans leur ville.",
+      "startDate":"2025-07-25",
+      "facilities":{
+         "wifi":true,
+         "heating":null,
+         "totalSize":143,
+         "bedroomSize":9.5,
+         "bedroomCount":7,
+         "washingMachine":true,
+         "bedroomFurnished":true
+      },
+      "images":[
+         "https://ucarecdn.com/2b2983c0-fd1f-4dd1-af90-4aec3a42d75f/-/resize/1000x/-/format/webp/République120WC",
+         "https://ucarecdn.com/1a8ea2ef-38bc-4305-b059-175e29ab4942/-/preview/750x1000/",
+         "https://ucarecdn.com/c9356eb7-70f1-49e8-a0a9-2d33dade9b82/-/resize/1000x/-/format/webp/République12011",
+         "https://ucarecdn.com/6c8dd8c7-6635-49bb-b5b3-1644d8982c25/-/resize/1000x/-/format/webp/République12030",
+         "https://ucarecdn.com/9939ff02-822d-4552-a905-addcb0b54326/-/resize/1000x/-/format/webp/République12010",
+         "https://ucarecdn.com/f24c567a-9195-4639-8914-9e13f7fccbdf/-/resize/1000x/-/format/webp/République12031",
+         "https://ucarecdn.com/addf3065-eb9d-4a19-b879-3c41404220d5/-/resize/1000x/-/format/webp/République12016",
+         "https://ucarecdn.com/dd9827c2-4522-4bd1-a5a0-1d26e641c85e/-/resize/1000x/-/format/webp/République12017",
+         "https://ucarecdn.com/ea44615e-47ab-4c2a-b856-06efce5544a9/-/resize/1000x/-/format/webp/République12015",
+         "https://ucarecdn.com/3739c1c5-331d-4dfa-93c2-4301c4557524/-/resize/1000x/-/format/webp/République1200FP",
+         "https://ucarecdn.com/ac303aea-ab57-437a-a253-e8d87b76a8e4/-/preview/750x1000/"
+      ],
+      "lastUpdated":"2025-07-25T11:40:58.179146",
+      "listingReference":"République 120 - 6",
+      "costs":{
+         "utilities":{
+            "value":8000,
+            "payableAt":"monthly",
+            "payableBy":"included_in_rent",
+            "refundable":false,
+            "isEstimated":true
+         },
+         "security-deposit":{
+            "value":"800",
+            "payableAt":"move-in",
+            "payableBy":"tenant",
+            "refundable":true,
+            "isEstimated":false
+         },
+         "administration-fee":{
+            "value":"250",
+            "payableAt":"move-in",
+            "payableBy":"tenant",
+            "refundable":false,
+            "isEstimated":false
+         }
+      }
+   }
+]
