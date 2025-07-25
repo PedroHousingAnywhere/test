@@ -37,7 +37,7 @@
             "value":8000,
             "payableAt":"monthly",
             "payableBy":"included_in_rent",
-            "required": true|false,
+            "required": true,
             "refundable":false,
             "isEstimated":true
          },
@@ -45,7 +45,7 @@
             "value":800,
             "payableAt":"move-in",
             "payableBy":"tenant",
-            "required": true|false,
+            "required": true,
             "refundable":true,
             "isEstimated":false
          },
@@ -53,7 +53,7 @@
             "value":250,
             "payableAt":"move-in",
             "payableBy":"tenant",
-            "required": true|false,
+            "required": true,
             "refundable":false,
             "isEstimated":false
          }
