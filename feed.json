@@ -41,14 +41,14 @@
             "isEstimated":true
          },
          "security-deposit":{
-            "value":"800",
+            "value":800,
             "payableAt":"move-in",
             "payableBy":"tenant",
             "refundable":true,
             "isEstimated":false
          },
          "administration-fee":{
-            "value":"250",
+            "value":250,
             "payableAt":"move-in",
             "payableBy":"tenant",
             "refundable":false,
