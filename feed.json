@@ -72,7 +72,10 @@
         "required": true,
         "refundable": false,
         "isEstimated": false
-      }
+      },
+      "gas-bill": {
+        "payableBy": "not_applicable"
+      },
     },
     "currencyCode": "EUR",
     "startDate": "2025-07-15",
