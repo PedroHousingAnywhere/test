@@ -59,7 +59,7 @@
     "costs": {
       "security-deposit": {
         "value": 150000,
-        "payable_at": "one-off",
+        "payableAt": "one-off",
         "required": true,
         "refundable": true,
         "payableBy": "tenant",
@@ -85,7 +85,7 @@
       },
       "final-cleaning": {
         "value": 11500,
-        "payable_at": "one-off",
+        "payableAt": "one-off",
         "payableBy": "tenant",
         "required": true,
         "refundable": false,
