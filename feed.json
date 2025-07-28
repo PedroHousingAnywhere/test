@@ -59,7 +59,7 @@
     "costs": {
       "security-deposit": {
         "value": 150000,
-        "payableAt": "one-off",
+        "payableAt": "move-out",
         "required": true,
         "refundable": true,
         "payableBy": "tenant",
