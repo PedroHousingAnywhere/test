@@ -69,9 +69,6 @@
         "required": false
       },
        "water-bill": {
-    "value": 10000,
-    "payableBy": "tenant",
-    "payableAt": "move-in",
     "required": false
   }
     },
