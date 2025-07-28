@@ -73,9 +73,14 @@
         "refundable": false,
         "isEstimated": false
       },
-      "gas-bill": {
-        "payableBy": "not-applicable"
-      }
+       "water-bill": {
+    "value": 0,
+    "payableBy": "tenant|landlord",
+    "payableAt": "move_in|monthly|move_out",
+    "required": true|false,
+    "refundable": true|false,
+    "isEstimated": true|false
+  }
     },
     "currencyCode": "EUR",
     "startDate": "2025-07-15",
