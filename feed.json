@@ -66,20 +66,13 @@
         "isEstimated": false
       },
       "final-cleaning": {
-        "value": 11500,
-        "payableAt": "one-off",
-        "payableBy": "tenant",
         "required": true,
-        "refundable": false,
-        "isEstimated": false
       },
        "water-bill": {
-    "value": 0,
-    "payableBy": "tenant|landlord",
-    "payableAt": "move_in|monthly|move_out",
-    "required": true|false,
-    "refundable": true|false,
-    "isEstimated": true|false
+    "value": 10000,
+    "payableBy": "tenant",
+    "payableAt": "move-in",
+    "required": false
   }
     },
     "currencyCode": "EUR",
