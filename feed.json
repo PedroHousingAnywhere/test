@@ -65,24 +65,6 @@
         "payableBy": "tenant",
         "isEstimated": false
       },
-      "administration-fee": {
-        "payableBy": "not_applicable"
-      },
-      "electricity-bill": {
-        "payableBy": "not_applicable"
-      },
-      "gas-bill": {
-        "payableBy": "not_applicable"
-      },
-      "internet-bill": {
-        "payableBy": "not_applicable"
-      },
-      "water-bill": {
-        "payableBy": "not_applicable"
-      },
-      "other-additional-costs": {
-        "payableBy": "not_applicable"
-      },
       "final-cleaning": {
         "value": 11500,
         "payableAt": "one-off",
