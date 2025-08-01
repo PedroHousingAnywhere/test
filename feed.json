@@ -97,7 +97,7 @@
     ],
     "lastUpdated": "1754051193",
     "listingUrl": true,
-    "minAge": "21",
-    "maxAge": "35"
+    "minAge": 21,
+    "maxAge": 35
   }
 ]
