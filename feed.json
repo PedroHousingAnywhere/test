@@ -52,7 +52,7 @@
         "mandatory": true
       }
     },
-    "startDate": "2025/08",
+    "startDate": "2025-08-01",
     "minimumStayMonths": 12,
     "facilities": {
       "ac": false,
