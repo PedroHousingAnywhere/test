@@ -1,4 +1,4 @@
-{
+[{
     "listingReference": "ARGC8",
     "type": "apartment",
     "kind": "private_room",
@@ -100,3 +100,4 @@
     "minAge": "21",
     "maxAge": "35"
   }
+]
