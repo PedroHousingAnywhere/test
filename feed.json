@@ -1,135 +1,216 @@
 [
-  {
-    "type": "apartment",
-    "kind": "entire_place",
-    "address": "157 boulevard Saint Germain, Paris, 75006, FR",
-    "description": "Ce superbe appartement est situé au 5e étage d'un immeuble résidentiel. Il se compose de : une pièce à vivre avec coin repas et canapé-lit (140x200cm), cuisine équipée (réfrigérateur, plaques à induction, micro-ondes, bouilloire...), une salle de bain avec WC et machine à laver à l'étage, nombreux rangements, TV et Internet Haut Débit (WiFi), draps et serviettes de toilette fournis. Ascenseur jusqu'au 4ème étage puis escalier jusqu'au 5ème étage. Vous aurez accès à l'ensemble de l'appartement. Je suis disponible pour répondre à toutes vos questions. Cet appartement est situé en plein cœur de Saint Germain des Prés. Il se trouve à quelques mètres du centre commercial Le Bon Marché. Le quartier regorge de nombreux restaurants, de magasins réputés ainsi que de nombreux commerces de proximité (boulangerie, poissonnerie, restaurants, boucherie, pressing, pharmacie). La situation géographique de l'appartement vous permettra de vous déplacer très facilement et rapidement dans l'ensemble de la capitale via de nombreuses options de transports en commun : Métro Saint-Germain-des-Prés (ligne 4) à 1 minute à pied, Métro Mabillon (ligne 10) à 4 minutes à pied, nombreuses lignes de bus jour et nuit, station Vélib, plusieurs compagnies de taxi disponibles (les taxis G7, appelez le 36 07). Nous vous demandons de nous fournir les pièces justificatives nécessaires : 1 pièce d'identité, 1 justificatif du motif du séjour (professionnel ou scolaire), 1 adresse électronique. Un contrat vous sera envoyé par email et un état des lieux sera effectué à votre arrivée et à votre départ. POUR LES CHECK-IN : En semaine, horaire d'arrivée entre 15h et 18h. Early check-in (sous réserve de possibilité) entre 9h et 15h : 20 euros. Late check-in entre 18h et 22h : 30 euros. Late Late check-in entre 22h et 00h : 30 euros. En week-end, entre 9h et 18h : 30 euros, entre 18h et 22h : 50 euros, entre 22h et 00h : 60 euros. Tout paiement pour les check-ins devra se faire en espèces directement à la personne faisant le check-in. A défaut de paiement, la personne ne sera pas en mesure de vous remettre les clefs.",
-    "pricingType": "monthly",
-    "monthlyPrices": [
-      {
-        "month": "1",
-        "price": 173300
+   {
+      "listingReference":"ANA5",
+      "type":"apartment",
+      "kind":"private_room",
+      "address":"Plaza Santa Ana  1 Madrid, Spain",
+      "description":"¡Hermosa habitación en el centro de Madrid! El piso está situado en el corazón de Madrid, totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable  por piso: agua, energía, gas, WiFi.",
+      "currencyCode":"EUR",
+      "pricingType":2,
+      "price":68000,
+      "monthlyPrices":{
+         "1":68000,
+         "2":68000,
+         "3":68000,
+         "4":68000,
+         "5":68000,
+         "6":68000,
+         "7":68000,
+         "8":68000,
+         "9":68000,
+         "10":68000,
+         "11":68000,
+         "12":68000
       },
-      {
-        "month": "2",
-        "price": 173600
+      "costs":{
+         "security-deposit":{
+            "value":68000,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":true
+         },
+         "administration-fee":{
+            "value":0,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":false,
+            "isEstimated":false
+         },
+         "other-additional-costs":{
+            "value":4500,
+            "payableBy":"tenant",
+            "payableAt":"monthly",
+            "refundable":false,
+            "isEstimated":false
+         },
+         "cleaning-fee":{
+            "value":4900,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":false,
+            "isEstimated":false,
+            "mandatory":true
+         }
       },
-      {
-        "month": "3",
-        "price": 192200
+      "startDate":"2025/09/01",
+      "minimumStayMonths":12,
+      "facilities":{
+         "ac":false,
+         "registrationPossible":true,
+         "tenantStatus":"student",
+         "bedroomCount":10,
+         "tv":false,
+         "bed":true,
+         "desk":true,
+         "bedroomLock":true,
+         "wifi":true,
+         "dryer":false,
+         "closet":true,
+         "toilet":"shared",
+         "heating":"central",
+         "kitchen":"shared",
+         "flooring":"wood",
+         "internet":true,
+         "kitchenware":"shared",
+         "cleaningCommon":true,
+         "bedroomFurnished":true,
+         "smokingAllowed":"outsideOnly",
+         "washingMachine":true,
+         "cleaningPrivate":false,
+         "livingRoom":"shared",
+         "bedroomSize":20
       },
-      {
-        "month": "4",
-        "price": 186000
+      "images":[
+         "https://app.colivingsoftware.es/upload/habitacion/1657817073WhatsAppImage2022-07-14at6.30.13PM1.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817074WhatsAppImage2022-07-14at6.30.13PM2.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817075WhatsAppImage2022-07-14at6.30.13PM.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817076WhatsAppImage2022-07-14at6.30.14PM1.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817077WhatsAppImage2022-07-14at6.30.14PM2.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817078WhatsAppImage2022-07-14at6.30.14PM3.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657817079WhatsAppImage2022-07-14at6.30.14PM.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1657900678VideoOk.mp4",
+         "https://app.colivingsoftware.es/upload/pisos/164864103720200812_193918.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864103820200812_194656.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864103920200812_200920-copia.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104020200812_200920.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104120200812_201155.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104220200812_202132.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104320200914_124403.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104420200914_125457-copia.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104520200914_125457.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104620200914_131238.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104720200914_132512.jpg"
+      ],
+      "lastUpdated":"2025/08/01",
+      "listingUrl":"https://booking.madridroom.com/habitaciones-en-piso-compartido-en-madrid-ana5",
+      "minAge":"21",
+      "maxAge":"35"
+   },
+   {
+      "listingReference":"ANA6",
+      "type":"apartment",
+      "kind":"private_room",
+      "address":"Plaza Santa Ana  1 Madrid, Spain",
+      "description":"¡Hermosa habitación en el centro de Madrid! El piso está situado en el corazón de Madrid, totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable  por piso: agua, energía, gas, WiFi.",
+      "currencyCode":"EUR",
+      "pricingType":2,
+      "price":72500,
+      "monthlyPrices":{
+         "1":72500,
+         "2":72500,
+         "3":72500,
+         "4":72500,
+         "5":72500,
+         "6":72500,
+         "7":72500,
+         "8":72500,
+         "9":72500,
+         "10":72500,
+         "11":72500,
+         "12":72500
       },
-      {
-        "month": "5",
-        "price": 201500
+      "costs":{
+         "security-deposit":{
+            "value":72500,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":true
+         },
+         "administration-fee":{
+            "value":0,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":false,
+            "isEstimated":false
+         },
+         "other-additional-costs":{
+            "value":4500,
+            "payableBy":"tenant",
+            "payableAt":"monthly",
+            "refundable":false,
+            "isEstimated":false
+         },
+         "cleaning-fee":{
+            "value":4900,
+            "payableBy":"tenant",
+            "payableAt":"move-in",
+            "refundable":false,
+            "isEstimated":false,
+            "mandatory":true
+         }
       },
-      {
-        "month": "6",
-        "price": 195000
+      "startDate":"2025/06/16",
+      "minimumStayMonths":12,
+      "facilities":{
+         "ac":false,
+         "registrationPossible":true,
+         "tenantStatus":"student",
+         "bedroomCount":10,
+         "tv":false,
+         "bed":true,
+         "desk":true,
+         "bedroomLock":true,
+         "wifi":true,
+         "dryer":false,
+         "closet":true,
+         "toilet":"shared",
+         "heating":"central",
+         "kitchen":"shared",
+         "flooring":"wood",
+         "internet":true,
+         "kitchenware":"shared",
+         "cleaningCommon":true,
+         "bedroomFurnished":true,
+         "smokingAllowed":"outsideOnly",
+         "washingMachine":true,
+         "cleaningPrivate":false,
+         "livingRoom":"shared",
+         "bedroomSize":20
       },
-      {
-        "month": "7",
-        "price": 164600
-      },
-      {
-        "month": "8",
-        "price": 170600
-      },
-      {
-        "month": "9",
-        "price": 186000
-      },
-      {
-        "month": "10",
-        "price": 192200
-      },
-      {
-        "month": "11",
-        "price": 186000
-      },
-      {
-        "month": "12",
-        "price": 192200
-      }
-    ],
-    "listingReference": "1111",
-    "costs": {
-      "security-deposit": {
-        "value": 150000,
-        "payableAt": "move-in",
-        "required": true,
-        "refundable": true,
-        "payableBy": "tenant",
-        "isEstimated": false
-      },
-      "final-cleaning": {
-        "required": false
-      },
-       "water-bill": {
-    "required": false
-  }
-    },
-    "currencyCode": "EUR",
-    "startDate": "2025-07-15",
-    "minimumStayMonths": 1,
-    "moveInWindow": 0,
-    "images": [
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3329.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3330.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3334.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3331.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3333.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3332.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3328.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3326.jpg"
-    ],
-    "lastUpdated": "2025-07-15",
-    "facilities": {
-      "allergyFriendly": null,
-      "housematesGender": null,
-      "registrationPossible": null,
-      "tenantStatus": null,
-      "bedroomCount": 0,
-      "bedroomFurnished": null,
-      "bedroomSize": 15,
-      "bedroomLock": null,
-      "balconyTerrace": null,
-      "basement": null,
-      "bathroom": null,
-      "garden": null,
-      "kitchen": null,
-      "livingRoom": null,
-      "parking": null,
-      "toilet": null,
-      "kitchenware": null,
-      "totalSize": 15,
-      "wheelchairAccessible": null,
-      "ac": null,
-      "bed": null,
-      "closet": null,
-      "desk": null,
-      "dishwasher": null,
-      "dryer": null,
-      "flooring": null,
-      "internet": null,
-      "livingRoomFurnished": null,
-      "tv": null,
-      "washingMachine": null,
-      "wifi": true,
-      "animalAllowed": null,
-      "cleaningCommon": null,
-      "cleaningPrivate": null,
-      "playMusic": null,
-      "smokingAllowed": null,
-      "preferredGender": null,
-      "couplesAllowed": null,
-      "currentOccupancy": null,
-      "freePlaces": null,
-      "heating": "central"
-    }
-  }
+      "images":[
+         "https://app.colivingsoftware.es/upload/habitacion/1619009503VIDEO.mp4",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383991WhatsAppImage2022-06-16at1.16.14PM1.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383992WhatsAppImage2022-06-16at1.16.14PM.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383993WhatsAppImage2022-06-16at1.16.15PM1.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383995WhatsAppImage2022-06-16at1.16.15PM2.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383996WhatsAppImage2022-06-16at1.16.15PM3.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1655383997WhatsAppImage2022-06-16at1.16.15PM.jpeg",
+         "https://app.colivingsoftware.es/upload/habitacion/1672405839WhatsAppVideo2022-12-30at14.07.09.mp4",
+         "https://app.colivingsoftware.es/upload/pisos/164864103720200812_193918.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864103820200812_194656.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864103920200812_200920-copia.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104020200812_200920.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104120200812_201155.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104220200812_202132.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104320200914_124403.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104420200914_125457-copia.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104520200914_125457.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104620200914_131238.jpg",
+         "https://app.colivingsoftware.es/upload/pisos/164864104720200914_132512.jpg"
+      ],
+      "lastUpdated":"2025/08/01",
+      "listingUrl":"https://madridroom.com/piso-compartido-en-madrid-ana6",
+      "minAge":"21",
+      "maxAge":"35"
+   }
 ]
