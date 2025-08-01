@@ -6,7 +6,7 @@
     "address": "Ferraz 80, Madrid, España",
     "description": "(SGP#ARGC/X8;HFY) ¡ Maravillosa Habitación en zona Moncloa! .Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso está situado en el centro de Madrid, a 7 minutos del Corte Inglés, 4 minutos del teleférico y a 6 minutos del Parque de la Rosaleda. Perfecto para estudiantes que deseen vivir cerca de la Ciudad Universitaria. Habitación con cama doble, armario, escritorio y balcon exterior. El piso está totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi + . Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación SGP#ARGC/X8;HFY.",
     "currencyCode": "€",
-    "pricingType": 2,
+    "pricingType": "monthly",
     "price": 71000,
     "monthlyPrices": {
       "1": 71000,
@@ -108,7 +108,7 @@
     "address": "Doctor Esquerdo 114, Madrid, España",
     "description": "(ZDN#DRE/X2;HKW) ¡ Hermosa Habitación en zona Retiro!  Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso esta a pie del metro Conde Casal. Cerca de distintos locales comerciales y restaurantes. Habitación con cama doble, armario, escritorio, ventana. El piso está totalmente amueblado. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi. Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación ZDN#DRE/X2;HKW.",
     "currencyCode": "€",
-    "pricingType": 2,
+    "pricingType": "monthly",
     "price": 68900,
     "monthlyPrices": {
       "1": 68900,
