@@ -1,103 +1,104 @@
-[{
-    "listingReference": "ARGC8",
-    "type": "apartment",
-    "kind": "private_room",
-    "address": "Ferraz 80, Madrid, España",
-    "description": "(SGP#ARGC/X8;HFY) ¡ Maravillosa Habitación en zona Moncloa! .Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso está situado en el centro de Madrid, a 7 minutos del Corte Inglés, 4 minutos del teleférico y a 6 minutos del Parque de la Rosaleda. Perfecto para estudiantes que deseen vivir cerca de la Ciudad Universitaria. Habitación con cama doble, armario, escritorio y balcon exterior. El piso está totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi + . Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación SGP#ARGC/X8;HFY.",
-    "currencyCode": "€",
-    "pricingType": 2,
-    "price": 71000,
-    "monthlyPrices": {
-      "1": 71000,
-      "2": 71000,
-      "3": 71000,
-      "4": 71000,
-      "5": 71000,
-      "6": 71000,
-      "7": 71000,
-      "8": 71000,
-      "9": 71000,
-      "10": 71000,
-      "11": 71000,
-      "12": 71000
-    },
-    "costs": {
-      "security-deposit": {
-        "value": 71000,
-        "payableBy": "tenant",
-        "payableAt": "move-in",
-        "refundable": true
-      },
-      "administration-fee": {
-        "value": 0,
-        "payableBy": "tenant",
-        "payableAt": "move-in",
-        "refundable": false,
-        "isEstimated": false
-      },
-      "other-additional-costs": {
-        "value": 4500,
-        "payableBy": "tenant",
-        "payableAt": "monthly",
-        "refundable": false,
-        "isEstimated": false
-      },
-      "cleaning-fee": {
-        "value": 4900,
-        "payableBy": "tenant",
-        "payableAt": "move-in",
-        "refundable": false,
-        "isEstimated": false,
-        "mandatory": true
-      }
-    },
-    "startDate": "2027/01",
-    "minimumStayMonths": 12,
-    "facilities": {
-      "ac": false,
-      "registrationPossible": true,
-      "tenantStatus": "student",
-      "bedroomCount": 11,
-      "tv": false,
-      "bed": true,
-      "desk": true,
-      "bedroomLock": true,
-      "wifi": true,
-      "dryer": false,
-      "closet": true,
-      "toilet": "shared",
-      "heating": "central",
-      "kitchen": "shared",
-      "flooring": "wood",
-      "internet": true,
-      "kitchenware": "shared",
-      "cleaningCommon": true,
-      "bedroomFurnished": true,
-      "smokingAllowed": "outsideOnly",
-      "washingMachine": true,
-      "cleaningPrivate": false,
-      "livingRoom": "no",
-      "bedroomSize": 12
-    },
-    "images": [
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890495signal-2023-08-01-133512_002.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890496signal-2023-08-01-133512_003.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890498signal-2023-08-01-133512_004.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890499signal-2023-08-01-133512_005.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890500signal-2023-08-01-133512_006.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890501signal-2023-08-01-133512_007.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/166429632220200815_164933.jpg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/166429632320200815_170017.jpg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296324nuevacocina.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296325WhatsAppImage2020-06-19at19.57.06.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296326WhatsAppImage2022-09-12at11.18.241.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296327WhatsAppImage2022-09-12at11.18.24.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296328WhatsAppImage2022-09-12at11.18.25.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1664296329WhatsAppImage2022-09-25at18.35.32.jpeg"
-    ],
-    "lastUpdated": "1754051193",
-    "listingUrl": "this should be an url",
-    "minAge": 21,
-    "maxAge": 35
-  }
+[
+    {
+        "listingReference": "ARGC8",
+        "type": "apartment",
+        "kind": "private_room",
+        "address": "Ferraz 80, Madrid, España",
+        "description": "(SGP#ARGC/X8;HFY) ¡ Maravillosa Habitación en zona Moncloa! .Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso está situado en el centro de Madrid, a 7 minutos del Corte Inglés, 4 minutos del teleférico y a 6 minutos del Parque de la Rosaleda. Perfecto para estudiantes que deseen vivir cerca de la Ciudad Universitaria. Habitación con cama doble, armario, escritorio y balcon exterior. El piso está totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi + . Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación SGP#ARGC/X8;HFY.",
+        "currencyCode": "€",
+        "pricingType": 2,
+        "price": 71000,
+        "monthlyPrices": {
+            "1": 71000,
+            "2": 71000,
+            "3": 71000,
+            "4": 71000,
+            "5": 71000,
+            "6": 71000,
+            "7": 71000,
+            "8": 71000,
+            "9": 71000,
+            "10": 71000,
+            "11": 71000,
+            "12": 71000
+        },
+        "costs": {
+            "security-deposit": {
+                "value": 71000,
+                "payableBy": "tenant",
+                "payableAt": "move-in",
+                "refundable": true
+            },
+            "administration-fee": {
+                "value": 0,
+                "payableBy": "tenant",
+                "payableAt": "move-in",
+                "refundable": false,
+                "isEstimated": false
+            },
+            "other-additional-costs": {
+                "value": 4500,
+                "payableBy": "tenant",
+                "payableAt": "monthly",
+                "refundable": false,
+                "isEstimated": false
+            },
+            "cleaning-fee": {
+                "value": 4900,
+                "payableBy": "tenant",
+                "payableAt": "move-in",
+                "refundable": false,
+                "isEstimated": false,
+                "mandatory": true
+            }
+        },
+        "startDate": "2027/01",
+        "minimumStayMonths": 12,
+        "facilities": {
+            "ac": false,
+            "registrationPossible": true,
+            "tenantStatus": "student",
+            "bedroomCount": 11,
+            "tv": false,
+            "bed": true,
+            "desk": true,
+            "bedroomLock": true,
+            "wifi": true,
+            "dryer": false,
+            "closet": true,
+            "toilet": "shared",
+            "heating": "central",
+            "kitchen": "shared",
+            "flooring": "wood",
+            "internet": true,
+            "kitchenware": "shared",
+            "cleaningCommon": true,
+            "bedroomFurnished": true,
+            "smokingAllowed": "outsideOnly",
+            "washingMachine": true,
+            "cleaningPrivate": false,
+            "livingRoom": "no",
+            "bedroomSize": 12
+        },
+        "images": [
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890495signal-2023-08-01-133512_002.jpeg",
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890496signal-2023-08-01-133512_003.jpeg",
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890498signal-2023-08-01-133512_004.jpeg",
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890499signal-2023-08-01-133512_005.jpeg",
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890500signal-2023-08-01-133512_006.jpeg",
+            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890501signal-2023-08-01-133512_007.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/166429632220200815_164933.jpg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/166429632320200815_170017.jpg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296324nuevacocina.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296325WhatsAppImage2020-06-19at19.57.06.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296326WhatsAppImage2022-09-12at11.18.241.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296327WhatsAppImage2022-09-12at11.18.24.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296328WhatsAppImage2022-09-12at11.18.25.jpeg",
+            "https://my.colivingsoftware.es/upload/colunitmedia/1664296329WhatsAppImage2022-09-25at18.35.32.jpeg"
+        ],
+        "lastUpdated": "1754051193",
+        "listingUrl": "this should be an url",
+        "minAge": "21",
+        "maxAge": "35"
+    }
 ]
