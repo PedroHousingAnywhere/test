@@ -1,30 +1,29 @@
-[
-  {
-    "listingReference": "DRE2",
+{
+    "listingReference": "ARGC8",
     "type": "apartment",
     "kind": "private_room",
-    "address": "Doctor Esquerdo 114, Madrid, España",
-    "description": "(ZDN#DRE/X2;HKW) ¡ Hermosa Habitación en zona Retiro!  Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso esta a pie del metro Conde Casal. Cerca de distintos locales comerciales y restaurantes. Habitación con cama doble, armario, escritorio, ventana. El piso está totalmente amueblado. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi. Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación ZDN#DRE/X2;HKW.",
+    "address": "Ferraz 80, Madrid, España",
+    "description": "(SGP#ARGC/X8;HFY) ¡ Maravillosa Habitación en zona Moncloa! .Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso está situado en el centro de Madrid, a 7 minutos del Corte Inglés, 4 minutos del teleférico y a 6 minutos del Parque de la Rosaleda. Perfecto para estudiantes que deseen vivir cerca de la Ciudad Universitaria. Habitación con cama doble, armario, escritorio y balcon exterior. El piso está totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi + . Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación SGP#ARGC/X8;HFY.",
     "currencyCode": "€",
-    "pricingType": "monthly",
-    "price": 68900,
-    "monthlyPrices": [
-    {
-      "month": "2024-02",
-      "price": 1200
+    "pricingType": 2,
+    "price": 71000,
+    "monthlyPrices": {
+      "1": 71000,
+      "2": 71000,
+      "3": 71000,
+      "4": 71000,
+      "5": 71000,
+      "6": 71000,
+      "7": 71000,
+      "8": 71000,
+      "9": 71000,
+      "10": 71000,
+      "11": 71000,
+      "12": 71000
     },
-    {
-      "month": "2024-03",
-      "price": 1300
-    },
-    {
-      "month": "2024-04",
-      "price": 1400
-    }
-  ],
     "costs": {
       "security-deposit": {
-        "value": 68900,
+        "value": 71000,
         "payableBy": "tenant",
         "payableAt": "move-in",
         "refundable": true
@@ -52,13 +51,13 @@
         "mandatory": true
       }
     },
-    "startDate": "2025-08-01",
+    "startDate": "2027/01",
     "minimumStayMonths": 12,
     "facilities": {
       "ac": false,
       "registrationPossible": true,
       "tenantStatus": "student",
-      "bedroomCount": 7,
+      "bedroomCount": 11,
       "tv": false,
       "bed": true,
       "desk": true,
@@ -81,20 +80,23 @@
       "bedroomSize": 12
     },
     "images": [
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218794signal-2023-07-24-190616_002.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218796signal-2023-07-24-190616_003.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218797signal-2023-07-24-190616_004.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218798signal-2023-07-24-190616_005.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218799signal-2023-07-24-190616_006.jpeg",
-      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690218801signal-2023-07-24-190616_007.jpeg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/170058812420200818_105217.jpg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/170058812620200818_105221.jpg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/170058812720200818_112138.jpg",
-      "https://my.colivingsoftware.es/upload/colunitmedia/1700588128WhatsAppImage2020-06-01at11.00.521.jpeg"
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890495signal-2023-08-01-133512_002.jpeg",
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890496signal-2023-08-01-133512_003.jpeg",
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890498signal-2023-08-01-133512_004.jpeg",
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890499signal-2023-08-01-133512_005.jpeg",
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890500signal-2023-08-01-133512_006.jpeg",
+      "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890501signal-2023-08-01-133512_007.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/166429632220200815_164933.jpg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/166429632320200815_170017.jpg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296324nuevacocina.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296325WhatsAppImage2020-06-19at19.57.06.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296326WhatsAppImage2022-09-12at11.18.241.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296327WhatsAppImage2022-09-12at11.18.24.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296328WhatsAppImage2022-09-12at11.18.25.jpeg",
+      "https://my.colivingsoftware.es/upload/colunitmedia/1664296329WhatsAppImage2022-09-25at18.35.32.jpeg"
     ],
-    "lastUpdated": "1754048448",
-    "listingUrl": "a string",
-    "minAge": 21,
-    "maxAge": 35
+    "lastUpdated": 1754051193,
+    "listingUrl": true,
+    "minAge": "21",
+    "maxAge": "35"
   }
-]
