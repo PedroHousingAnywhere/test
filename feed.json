@@ -6,7 +6,7 @@
       "address":"Plaza Santa Ana  1 Madrid, Spain",
       "description":"¡Hermosa habitación en el centro de Madrid! El piso está situado en el corazón de Madrid, totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable  por piso: agua, energía, gas, WiFi.",
       "currencyCode":"EUR",
-      "pricingType":2,
+      "pricingType":"2",
       "price":68000,
       "monthlyPrices":{
          "1":68000,
@@ -113,7 +113,7 @@
       "address":"Plaza Santa Ana  1 Madrid, Spain",
       "description":"¡Hermosa habitación en el centro de Madrid! El piso está situado en el corazón de Madrid, totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable  por piso: agua, energía, gas, WiFi.",
       "currencyCode":"EUR",
-      "pricingType":2,
+      "pricingType":"2",
       "price":72500,
       "monthlyPrices":{
          "1":72500,
