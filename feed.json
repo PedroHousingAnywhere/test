@@ -96,7 +96,7 @@
       "https://my.colivingsoftware.es/upload/colunitmedia/1664296329WhatsAppImage2022-09-25at18.35.32.jpeg"
     ],
     "lastUpdated": "1754051193",
-    "listingUrl": true,
+    "listingUrl": "this should be an url",
     "minAge": 21,
     "maxAge": 35
   }
