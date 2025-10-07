@@ -1,104 +1,284 @@
 [
-    {
-        "listingReference": "ARGC8",
-        "type": "apartment",
-        "kind": "private_room",
-        "address": "Ferraz 80, Madrid, España",
-        "description": "(SGP#ARGC/X8;HFY) ¡ Maravillosa Habitación en zona Moncloa! .Si no estás en Madrid te ofrecemos servicio de videollamada para que la veas en tiempo real. El piso está situado en el centro de Madrid, a 7 minutos del Corte Inglés, 4 minutos del teleférico y a 6 minutos del Parque de la Rosaleda. Perfecto para estudiantes que deseen vivir cerca de la Ciudad Universitaria. Habitación con cama doble, armario, escritorio y balcon exterior. El piso está totalmente amueblado y la cocina equipada con los electrodomésticos necesarios para una buena estadía. Ambiente joven e internacional. Todos los gastos están incluidos en el precio hasta un limite de hasta un limite de consumo razonable por piso: agua, energía, gas, WiFi + . Si quieres más información, escríbenos al Whatsapp indicando que estás interesad@ en la habitación SGP#ARGC/X8;HFY.",
-        "currencyCode": "EUR",
-        "pricingType": "monthly",
-        "price": 71000,
-        "monthlyPrices": {
-            "1": 71000,
-            "2": 71000,
-            "3": 71000,
-            "4": 71000,
-            "5": 71000,
-            "6": 71000,
-            "7": 71000,
-            "8": 71000,
-            "9": 71000,
-            "10": 71000,
-            "11": 71000,
-            "12": 71000
-        },
-        "costs": {
-            "security-deposit": {
-                "value": 71000,
-                "payableBy": "tenant",
-                "payableAt": "move-in",
-                "refundable": true
-            },
-            "administration-fee": {
-                "value": 0,
-                "payableBy": "tenant",
-                "payableAt": "move-in",
-                "refundable": false,
-                "isEstimated": false
-            },
-            "other-additional-costs": {
-                "value": 4500,
-                "payableBy": "tenant",
-                "payableAt": "monthly",
-                "refundable": false,
-                "isEstimated": false
-            },
-            "cleaning-fee": {
-                "value": 4900,
-                "payableBy": "tenant",
-                "payableAt": "move-in",
-                "refundable": false,
-                "isEstimated": false,
-                "mandatory": true
-            }
-        },
-        "startDate": "2025/08/01",
-        "minimumStayMonths": 12,
-        "facilities": {
-            "ac": false,
-            "registrationPossible": true,
-            "tenantStatus": "student",
-            "bedroomCount": 11,
-            "tv": false,
-            "bed": true,
-            "desk": true,
-            "bedroomLock": true,
-            "wifi": true,
-            "dryer": false,
-            "closet": true,
-            "toilet": "shared",
-            "heating": "central",
-            "kitchen": "shared",
-            "flooring": "wood",
-            "internet": true,
-            "kitchenware": "shared",
-            "cleaningCommon": true,
-            "bedroomFurnished": true,
-            "smokingAllowed": "outsideOnly",
-            "washingMachine": true,
-            "cleaningPrivate": false,
-            "livingRoom": "no",
-            "bedroomSize": 12
-        },
-        "images": [
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890495signal-2023-08-01-133512_002.jpeg",
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890496signal-2023-08-01-133512_003.jpeg",
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890498signal-2023-08-01-133512_004.jpeg",
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890499signal-2023-08-01-133512_005.jpeg",
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890500signal-2023-08-01-133512_006.jpeg",
-            "https://my.colivingsoftware.es/upload/colsubunitmedia/1690890501signal-2023-08-01-133512_007.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/166429632220200815_164933.jpg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/166429632320200815_170017.jpg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296324nuevacocina.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296325WhatsAppImage2020-06-19at19.57.06.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296326WhatsAppImage2022-09-12at11.18.241.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296327WhatsAppImage2022-09-12at11.18.24.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296328WhatsAppImage2022-09-12at11.18.25.jpeg",
-            "https://my.colivingsoftware.es/upload/colunitmedia/1664296329WhatsAppImage2022-09-25at18.35.32.jpeg"
-        ],
-        "lastUpdated": "1754051193",
-        "listingUrl": "this should be an url",
-        "minAge": "21",
-        "maxAge": "35"
-    }
+     {
+    "kind": "entire_place",
+    "type": "apartment",
+    "costs": {
+      "cleaning-fee": {
+        "value": 11500,
+        "payableAt": "move-in",
+        "payableBy": "tenant",
+        "refundable": false,
+        "isEstimated": false
+      },
+      "security-deposit": {
+        "value": 150000,
+        "payableAt": "move-in",
+        "payableBy": "tenant",
+        "refundable": true,
+        "isEstimated": false
+      }
+    },
+    "images": [
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3329.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3330.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3334.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3331.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3333.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3332.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3328.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3326.jpg"
+    ],
+    "address": "157 boulevard Saint Germain, Paris, Saint-Germain-des-Prés, 75006, FR",
+    "facilities": {
+      "ac": false,
+      "tv": true,
+      "bed": false,
+      "desk": false,
+      "wifi": true,
+      "dryer": true,
+      "closet": null,
+      "garden": null,
+      "toilet": "private",
+      "heating": "central",
+      "kitchen": "private",
+      "parking": null,
+      "basement": null,
+      "bathroom": "private",
+      "flooring": null,
+      "internet": true,
+      "playMusic": "no",
+      "totalSize": 13,
+      "dishwasher": false,
+      "freePlaces": null,
+      "livingRoom": "private",
+      "bedroomLock": null,
+      "bedroomSize": null,
+      "kitchenware": "private",
+      "bedroomCount": 0,
+      "tenantStatus": null,
+      "animalAllowed": "no",
+      "balconyTerrace": null,
+      "cleaningCommon": null,
+      "couplesAllowed": true,
+      "smokingAllowed": "no",
+      "washingMachine": true,
+      "allergyFriendly": true,
+      "cleaningPrivate": null,
+      "preferredGender": null,
+      "bedroomFurnished": null,
+      "currentOccupancy": 2,
+      "housematesGender": "shared_w_both",
+      "livingRoomFurnished": true,
+      "registrationPossible": null,
+      "wheelchairAccessible": null
+    },
+    "listingUrl": "https://long-term.checkmyguest.fr/fr/properties/65e58e0f997bfc0012ad27e9",
+    "PricingType": "monthly",
+    "description": "## Space\n\nCe superbe appartement est situé au 5e étage d'un immeuble résidentiel. Il se compose de : \n- Une pièce à vivre avec coin repas et canapé-lit (140x200cm)\n- Cuisine équipée (réfrigérateur, plaques à induction, miro-ondes, bouilloire,...)\n- Une salle de bain  avec WC et machine à laver à l'étage\n- Nombreux rangements\n- TV et Internet Haut Débit (WiFi)\n- Draps et serviettes de toilette fournis.\n\n--\u003E Ascenseur jusqu'au 4ème étage puis escalier jusqu'au 5ème étage\n\n## Access\nVous aurez accès à l'ensemble de l'appartement.\n\n## Interaction\n\nJe suis disponible pour répondre à toutes vos questions.\n\n## Neighborhood\n\nCet appartement est situé en plein cœur de Saint Germain des près. Il se trouve à quelques mètres du centre commercial \"Le Bon Marché\". Le quartier regorge de nombreux restaurants, de magasins réputés ainsi que de nombreux commerces de proximité (boulangerie, poissonnerie, restaurants, boucherie, pressing, pharmacie).\n\n## Transit\n\nLa situation géographique de l'appartement vous permettra de vous déplacer très facilement et rapidement dans l'ensemble de la capitale de la France via ces nombreuses possibilités de transports en commun : \n\n- Métro: Saint-Germain-des-Prés (ligne 4), situé à 1 minute à pied\n- Métro: Mabillon (ligne 10), situé à 4 minutes à pied\n- Nombreuses lignes de BUS jour & nuit\n- Station Vélib\n- Plusieurs compagnies de Taxi disponibles : Les taxis G7 (la plus utilisée) : appelez le 36 07.\n\n## Notes\nNous vous demandons de nous fournir les pièces justificatives nécessaires :\n- 1 pièce d'identité\n- 1 justificatif du motif du séjour (professionnel ou scolaire)\n- 1 adresse électronique\n1 contrat vous sera envoyé par email et un état des lieux sera effectué à votre arrivée et à votre départ.\n\n---\n\nPOUR LES CHECK-IN\n\nEN SEMAINE\nHoraire d'arrivée : entre 15h et 18h\nEarly check-in (sous réserve de possibilité) : entre 9h et 15h : 20 euros \nLate check-in (sous réserve de possibilité) : entre  18h et 22h : 30 euros\nLate Late check-in (sous réserve de possibilité) : entre  22h et 00h : 30 euros\n\nEN WEEK-END\nEntre 9h et 18h : 30 euros\nEntre  18h et 22h : 50 euros\nEntre  22h et 00h : 60 euros\n\n* Tout paiement pour les check-ins devra se faire en espèce directement à la personne faisant le check-in. A défaut de paiement, la personne ne sera pas en mesure de vous remettre les clefs",
+    "lastUpdated": "2025-10-07T11:15:00.768Z",
+    "currencyCode": "EUR",
+    "moveInWindow": 0,
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 188100
+      },
+      {
+        "month": "2",
+        "price": 188100
+      },
+      {
+        "month": "3",
+        "price": 188100
+      },
+      {
+        "month": "4",
+        "price": 188100
+      },
+      {
+        "month": "5",
+        "price": 188100
+      },
+      {
+        "month": "6",
+        "price": 188100
+      },
+      {
+        "month": "7",
+        "price": 188100
+      },
+      {
+        "month": "8",
+        "price": 188100
+      },
+      {
+        "month": "9",
+        "price": 188100
+      },
+      {
+        "month": "10",
+        "price": 188100
+      },
+      {
+        "month": "11",
+        "price": 188100
+      },
+      {
+        "month": "12",
+        "price": 188100
+      }
+    ],
+    "blockedPeriods": [
+      {
+        "endDate": "2025-10-30",
+        "startDate": "2025-10-08"
+      }
+    ],
+    "listingReference": "1",
+    "minimumStayMonths": 3
+  },
+     {
+    "kind": "entire_place",
+    "type": "apartment",
+    "costs": {
+      "cleaning-fee": {
+        "value": 11500,
+        "payableAt": "move-in",
+        "payableBy": "tenant",
+        "refundable": false,
+        "isEstimated": false
+      },
+      "security-deposit": {
+        "value": 150000,
+        "payableAt": "move-in",
+        "payableBy": "tenant",
+        "refundable": true,
+        "isEstimated": false
+      }
+    },
+    "images": [
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3329.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3330.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3334.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3331.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3333.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3332.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3328.jpg",
+      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3326.jpg"
+    ],
+    "address": "157 boulevard Saint Germain, Paris, Saint-Germain-des-Prés, 75006, FR",
+    "facilities": {
+      "ac": false,
+      "tv": true,
+      "bed": false,
+      "desk": false,
+      "wifi": true,
+      "dryer": true,
+      "closet": null,
+      "garden": null,
+      "toilet": "private",
+      "heating": "central",
+      "kitchen": "private",
+      "parking": null,
+      "basement": null,
+      "bathroom": "private",
+      "flooring": null,
+      "internet": true,
+      "playMusic": "no",
+      "totalSize": 13,
+      "dishwasher": false,
+      "freePlaces": null,
+      "livingRoom": "private",
+      "bedroomLock": null,
+      "bedroomSize": null,
+      "kitchenware": "private",
+      "bedroomCount": 0,
+      "tenantStatus": null,
+      "animalAllowed": "no",
+      "balconyTerrace": null,
+      "cleaningCommon": null,
+      "couplesAllowed": true,
+      "smokingAllowed": "no",
+      "washingMachine": true,
+      "allergyFriendly": true,
+      "cleaningPrivate": null,
+      "preferredGender": null,
+      "bedroomFurnished": null,
+      "currentOccupancy": 2,
+      "housematesGender": "shared_w_both",
+      "livingRoomFurnished": true,
+      "registrationPossible": null,
+      "wheelchairAccessible": null
+    },
+    "listingUrl": "www.example.com",
+    "PricingType": "monthly",
+    "description": "this is the second listing,
+    "lastUpdated": "2025-10-07T11:15:00.768Z",
+    "currencyCode": "EUR",
+    "moveInWindow": 0,
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 188100
+      },
+      {
+        "month": "2",
+        "price": 188100
+      },
+      {
+        "month": "3",
+        "price": 188100
+      },
+      {
+        "month": "4",
+        "price": 188100
+      },
+      {
+        "month": "5",
+        "price": 188100
+      },
+      {
+        "month": "6",
+        "price": 188100
+      },
+      {
+        "month": "7",
+        "price": 188100
+      },
+      {
+        "month": "8",
+        "price": 188100
+      },
+      {
+        "month": "9",
+        "price": 188100
+      },
+      {
+        "month": "10",
+        "price": 188100
+      },
+      {
+        "month": "11",
+        "price": 188100
+      },
+      {
+        "month": "12",
+        "price": 188100
+      }
+    ],
+    "blockedPeriods": [
+      {
+        "endDate": "2025-10-30",
+        "startDate": "2025-10-08"
+      },
+        {
+        "endDate": "2025-12-01",
+        "startDate": "2025-12-29"
+      }
+    ],
+    "listingReference": "2",
+    "minimumStayMonths": 3
+  },
 ]
