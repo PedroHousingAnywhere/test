@@ -27,7 +27,7 @@
         "payableBy": "tenant",
         "refundable": false,
         "isEstimated": false,
-        "required": true
+        "required": false
       }
     },
     "images": [
