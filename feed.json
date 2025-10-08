@@ -20,6 +20,13 @@
         "payableBy": "tenant",
         "refundable": true,
         "isEstimated": false
+      },
+      "parking": {
+        "value": 11500,
+        "payableAt": "move-in",
+        "payableBy": "tenant",
+        "refundable": false,
+        "isEstimated": false
       }
     },
     "images": [
