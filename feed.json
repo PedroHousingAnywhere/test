@@ -26,7 +26,8 @@
         "payableAt": "move-in",
         "payableBy": "tenant",
         "refundable": false,
-        "isEstimated": false
+        "isEstimated": false,
+        "required": true
       }
     },
     "images": [
