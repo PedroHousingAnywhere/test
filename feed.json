@@ -16,7 +16,8 @@
     "isEstimated": false
   },
   "administration-fee": {
-    "payableBy": "included-in-rent",
+    "value": 25000,
+    "payableBy": "tenant",
     "payableAt": "move-in",
     "required": true,
     "refundable": false,
