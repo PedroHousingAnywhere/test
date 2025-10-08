@@ -1,35 +1,29 @@
 [
   {
     "listingReference": "1",
-    "alias": "the monthly price room",
+    "alias": "the monthly price room, with new costs",
     "kind": "entire_place",
     "type": "apartment",
     "pricingType": "monthly",
     "description": "This is the first listing and has a monthly price",
     "costs": {
-      "cleaning-fee": {
-        "value": 11500,
-        "payableAt": "move-in",
-        "payableBy": "tenant",
-        "refundable": false,
-        "isEstimated": false
-      },
-      "security-deposit": {
-        "value": 150000,
-        "payableAt": "move-in",
-        "payableBy": "tenant",
-        "refundable": true,
-        "isEstimated": false
-      },
-      "parking": {
-        "value": 11500,
-        "payableAt": "move-in",
-        "payableBy": "tenant",
-        "refundable": false,
-        "isEstimated": false,
-        "required": false
-      }
-    },
+  "security-deposit": {
+    "value": 80000,
+    "payableBy": "tenant",
+    "payableAt": "move-in",
+    "required": true,
+    "refundable": true,
+    "isEstimated": false
+  },
+  "administration-fee": {
+    "value": 25000,
+    "payableBy": "included-in-rent",
+    "payableAt": "move-in",
+    "required": true,
+    "refundable": false,
+    "isEstimated": false
+  }
+},
     "images": [
       "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
       "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3329.jpg",
