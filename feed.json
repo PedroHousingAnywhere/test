@@ -22,6 +22,14 @@
     "required": true,
     "refundable": false,
     "isEstimated": false
+  },
+    "other-additional-costs": {
+    "value": 10000,
+    "payableBy": "tenant",
+    "payableAt": "move-out",
+    "required": false,
+    "refundable": false,
+    "isEstimated": false
   }
 },
     "images": [
