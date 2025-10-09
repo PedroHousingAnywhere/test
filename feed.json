@@ -27,7 +27,7 @@
     "value": 10000,
     "payableBy": "tenant",
     "payableAt": "move-out",
-    "required": false,
+    "required": true,
     "refundable": false,
     "isEstimated": false
   }
