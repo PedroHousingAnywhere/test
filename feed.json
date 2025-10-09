@@ -35,9 +35,9 @@
         "value": 1000,
         "payableBy":"tenant",
         "payableAt":"weekly",
-        "required":"true",
-        "refundable":"false",
-        "isEstimated": "true"
+        "required":true,
+        "refundable":false,
+        "isEstimated": true
       }
 },
     "images": [
