@@ -27,10 +27,18 @@
     "value": 10000,
     "payableBy": "tenant",
     "payableAt": "move-out",
-    "required": true,
+    "required": false,
     "refundable": false,
     "isEstimated": false
-  }
+  },
+      "electricity-bill":{
+        "value": 1000,
+        "payableBy":"tenant",
+        "payableAt":"weekly",
+        "required":"true",
+        "refundable":"false",
+        "isEstimated": "true"
+      }
 },
     "images": [
       "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
