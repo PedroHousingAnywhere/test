@@ -1,14 +1,11 @@
 [
   {
-    "listingReference": "example_ref_123",
-    "alias": "this is an alias",
+    "listingReference": "newExample",
+    "alias": "newAlias",
     "kind": "entire_place",
     "type": "apartment",
-    "pricingType": "flat",
-    "flatPrice": 100000,
-    "description": "beautiful apartment near the beach",
-    "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-    "currencyCode": "EUR",
+    "pricingType": "monthly",
+    "description": "newDescription",
     "costs": {
   "security-deposit": {
     "value": 80000,
@@ -54,6 +51,7 @@
       "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3328.jpg",
       "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3326.jpg"
     ],
+    "address": "157 boulevard Saint Germain, Paris, Saint-Germain-des-Prés, 75006, FR",
     "facilities": {
       "ac": false,
       "tv": true,
@@ -97,17 +95,66 @@
       "registrationPossible": null,
       "wheelchairAccessible": null
     },
-     "listingUrl": "https://long-term.checkmyguest.fr/fr/properties/65e58e0f997bfc0012ad27e9",
+    "listingUrl": "https://long-term.checkmyguest.fr/fr/properties/65e58e0f997bfc0012ad27e9",
     "lastUpdated": "2025-10-07T11:15:00.768Z",
-        "moveInWindow": 0,
-        "minimumStayMonths": 3,
-     "blockedPeriods": [
+    "currencyCode": "EUR",
+    "moveInWindow": 0,
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 188100
+      },
+      {
+        "month": "2",
+        "price": 288100
+      },
+      {
+        "month": "3",
+        "price": 388100
+      },
+      {
+        "month": "4",
+        "price": 488100
+      },
+      {
+        "month": "5",
+        "price": 588100
+      },
+      {
+        "month": "6",
+        "price": 688100
+      },
+      {
+        "month": "7",
+        "price": 788100
+      },
+      {
+        "month": "8",
+        "price": 888100
+      },
+      {
+        "month": "9",
+        "price": 988100
+      },
+      {
+        "month": "10",
+        "price": 1088100
+      },
+      {
+        "month": "11",
+        "price": 1188100
+      },
+      {
+        "month": "12",
+        "price": 1288100
+      }
+    ],
+    "blockedPeriods": [
       {
         "endDate": "2025-12-30",
         "startDate": "2025-11-08"
       }
-    ]
-
-
+    ],
+    "minimumStayMonths": 3
   }
 ]
