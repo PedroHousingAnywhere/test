@@ -7,6 +7,7 @@
         "currencyCode": "EUR",
         "description": "beautiful apartment near the beach",
         "type": "apartment",
-        "kind": "entire_place"
+        "kind": "entire_place",
+        "startDate": "2025-10-14"
   }
 ]
