@@ -1,5 +1,6 @@
 [
   {
-    "listingReference": "example_ref_123"
+    "listingReference": "example_ref_123",
+        "pricingType": "flat"
   }
 ]
