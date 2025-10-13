@@ -1,20 +1,29 @@
 [
   {
     "listingReference": "example_ref_123",
-        "pricingType": "flat",
-        "flatPrice": 100000,
-        "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-        "currencyCode": "EUR",
-        "description": "beautiful apartment near the beach",
-    "alias": "this is an alias",
+        "alias": "this is an alias",
     "kind": "entire_place",
     "type": "apartment",
+        "pricingType": "flat",
+        "flatPrice": 100000,
+            "description": "beautiful apartment near the beach",
+        "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
+        "currencyCode": "EUR",
         "startDate": "2025-10-14",
     "facilities":{
       "bedroomSize":2,
       "totalSize":44,
       "currentOccupancy":1,
       "freePlaces":0
-    }
+    },
+     "costs": {
+  "security-deposit": {
+    "value": 80000,
+    "payableBy": "tenant",
+    "payableAt": "move-in",
+    "required": true,
+    "refundable": true,
+    "isEstimated": false
+  }
   }
 ]
