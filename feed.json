@@ -6,8 +6,9 @@
         "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
         "currencyCode": "EUR",
         "description": "beautiful apartment near the beach",
-        "type": "apartment",
-        "kind": "entire_place",
+    "alias": "this is an alias",
+    "kind": "entire_place",
+    "type": "apartment",
         "startDate": "2025-10-14"
   }
 ]
