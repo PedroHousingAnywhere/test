@@ -1,6 +1,7 @@
 [
   {
     "listingReference": "example_ref_123",
-        "pricingType": "flat"
+        "pricingType": "flat",
+        "address": "123 some address, Delft, South Holland, 1221AB, NL"
   }
 ]
