@@ -1,170 +1,7 @@
 [
   {
-    "listingReference": "1",
-    "alias": "the monthly price room, with new costs",
     "kind": "entire_place",
     "type": "apartment",
-    "pricingType": "monthly",
-    "description": "This is the first listing and has a monthly price",
-    "costs": {
-  "security-deposit": {
-    "value": 80000,
-    "payableBy": "tenant",
-    "payableAt": "move-in",
-    "required": true,
-    "refundable": true,
-    "isEstimated": false
-  },
-  "administration-fee": {
-    "value": 25000,
-    "payableBy": "tenant",
-    "payableAt": "move-in",
-    "required": true,
-    "refundable": false,
-    "isEstimated": false
-  },
-    "other-additional-costs": {
-    "value": 10000,
-    "payableBy": "tenant",
-    "payableAt": "move-out",
-    "required": false,
-    "refundable": false,
-    "isEstimated": false
-  },
-      "electricity-bill":{
-        "value": 1000,
-        "payableBy":"tenant",
-        "payableAt":"weekly",
-        "required":true,
-        "refundable":false,
-        "isEstimated": true
-      }
-},
-    "images": [
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3327.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3329.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3330.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3334.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3331.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3333.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3332.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3328.jpg",
-      "https://storage.googleapis.com/pictures-cmg/housing/1111/20200929-3326.jpg"
-    ],
-    "address": "157 boulevard Saint Germain, Paris, Saint-Germain-des-Prés, 75006, FR",
-    "facilities": {
-      "ac": false,
-      "tv": true,
-      "bed": false,
-      "desk": false,
-      "wifi": true,
-      "dryer": true,
-      "closet": null,
-      "garden": null,
-      "toilet": "private",
-      "heating": "central",
-      "kitchen": "private",
-      "parking": null,
-      "basement": null,
-      "bathroom": "private",
-      "flooring": null,
-      "internet": true,
-      "playMusic": "no",
-      "totalSize": 13,
-      "dishwasher": false,
-      "freePlaces": null,
-      "livingRoom": "private",
-      "bedroomLock": null,
-      "bedroomSize": null,
-      "kitchenware": "private",
-      "bedroomCount": 0,
-      "tenantStatus": null,
-      "animalAllowed": "no",
-      "balconyTerrace": null,
-      "cleaningCommon": null,
-      "couplesAllowed": true,
-      "smokingAllowed": "no",
-      "washingMachine": true,
-      "allergyFriendly": true,
-      "cleaningPrivate": null,
-      "preferredGender": null,
-      "bedroomFurnished": null,
-      "currentOccupancy": 2,
-      "housematesGender": "shared_w_both",
-      "livingRoomFurnished": true,
-      "registrationPossible": null,
-      "wheelchairAccessible": null
-    },
-    "listingUrl": "https://long-term.checkmyguest.fr/fr/properties/65e58e0f997bfc0012ad27e9",
-    "lastUpdated": "2025-10-07T11:15:00.768Z",
-    "currencyCode": "EUR",
-    "moveInWindow": 0,
-    "monthlyPrices": [
-      {
-        "month": "1",
-        "price": 188100
-      },
-      {
-        "month": "2",
-        "price": 288100
-      },
-      {
-        "month": "3",
-        "price": 388100
-      },
-      {
-        "month": "4",
-        "price": 488100
-      },
-      {
-        "month": "5",
-        "price": 588100
-      },
-      {
-        "month": "6",
-        "price": 688100
-      },
-      {
-        "month": "7",
-        "price": 788100
-      },
-      {
-        "month": "8",
-        "price": 888100
-      },
-      {
-        "month": "9",
-        "price": 988100
-      },
-      {
-        "month": "10",
-        "price": 1088100
-      },
-      {
-        "month": "11",
-        "price": 1188100
-      },
-      {
-        "month": "12",
-        "price": 1288100
-      }
-    ],
-    "blockedPeriods": [
-      {
-        "endDate": "2025-12-30",
-        "startDate": "2025-11-08"
-      }
-    ],
-    "minimumStayMonths": 3
-  },
-  {
-    "listingReference": "2",
-    "alias": "the flat price room",
-    "kind": "entire_place",
-    "type": "apartment",
-    "pricingType": "flat",
-    "flatPrice": 100000,
-    "description": "this is the second listing and it has a flat price",
     "costs": {
       "cleaning-fee": {
         "value": 11500,
@@ -236,20 +73,69 @@
       "registrationPossible": null,
       "wheelchairAccessible": null
     },
-    "listingUrl": "www.example.com",
-    "lastUpdated": "2025-10-07T11:15:00.768Z",
+    "listingUrl": "https://long-term.checkmyguest.fr/fr/properties/65e58e0f997bfc0012ad27e9",
+    "PricingType": "monthly",
+    "description": "## Space\n\nCe superbe appartement est situé au 5e étage d'un immeuble résidentiel. Il se compose de : \n- Une pièce à vivre avec coin repas et canapé-lit (140x200cm)\n- Cuisine équipée (réfrigérateur, plaques à induction, miro-ondes, bouilloire,...)\n- Une salle de bain  avec WC et machine à laver à l'étage\n- Nombreux rangements\n- TV et Internet Haut Débit (WiFi)\n- Draps et serviettes de toilette fournis.\n\n--\u003E Ascenseur jusqu'au 4ème étage puis escalier jusqu'au 5ème étage\n\n## Access\nVous aurez accès à l'ensemble de l'appartement.\n\n## Interaction\n\nJe suis disponible pour répondre à toutes vos questions.\n\n## Neighborhood\n\nCet appartement est situé en plein cœur de Saint Germain des près. Il se trouve à quelques mètres du centre commercial \"Le Bon Marché\". Le quartier regorge de nombreux restaurants, de magasins réputés ainsi que de nombreux commerces de proximité (boulangerie, poissonnerie, restaurants, boucherie, pressing, pharmacie).\n\n## Transit\n\nLa situation géographique de l'appartement vous permettra de vous déplacer très facilement et rapidement dans l'ensemble de la capitale de la France via ces nombreuses possibilités de transports en commun : \n\n- Métro: Saint-Germain-des-Prés (ligne 4), situé à 1 minute à pied\n- Métro: Mabillon (ligne 10), situé à 4 minutes à pied\n- Nombreuses lignes de BUS jour & nuit\n- Station Vélib\n- Plusieurs compagnies de Taxi disponibles : Les taxis G7 (la plus utilisée) : appelez le 36 07.\n\n## Notes\nNous vous demandons de nous fournir les pièces justificatives nécessaires :\n- 1 pièce d'identité\n- 1 justificatif du motif du séjour (professionnel ou scolaire)\n- 1 adresse électronique\n1 contrat vous sera envoyé par email et un état des lieux sera effectué à votre arrivée et à votre départ.\n\n---\n\nPOUR LES CHECK-IN\n\nEN SEMAINE\nHoraire d'arrivée : entre 15h et 18h\nEarly check-in (sous réserve de possibilité) : entre 9h et 15h : 20 euros \nLate check-in (sous réserve de possibilité) : entre  18h et 22h : 30 euros\nLate Late check-in (sous réserve de possibilité) : entre  22h et 00h : 30 euros\n\nEN WEEK-END\nEntre 9h et 18h : 30 euros\nEntre  18h et 22h : 50 euros\nEntre  22h et 00h : 60 euros\n\n* Tout paiement pour les check-ins devra se faire en espèce directement à la personne faisant le check-in. A défaut de paiement, la personne ne sera pas en mesure de vous remettre les clefs",
+    "lastUpdated": "2025-10-13T11:15:00.067Z",
     "currencyCode": "EUR",
     "moveInWindow": 0,
-    "blockedPeriods": [
+    "monthlyPrices": [
       {
-        "endDate": "2025-10-09",
-        "startDate": "2025-10-08"
+        "month": "1",
+        "price": 188100
       },
       {
-        "endDate": "2025-12-29",
-        "startDate": "2025-12-01"
+        "month": "2",
+        "price": 188100
+      },
+      {
+        "month": "3",
+        "price": 188100
+      },
+      {
+        "month": "4",
+        "price": 188100
+      },
+      {
+        "month": "5",
+        "price": 188100
+      },
+      {
+        "month": "6",
+        "price": 188100
+      },
+      {
+        "month": "7",
+        "price": 188100
+      },
+      {
+        "month": "8",
+        "price": 188100
+      },
+      {
+        "month": "9",
+        "price": 188100
+      },
+      {
+        "month": "10",
+        "price": 188100
+      },
+      {
+        "month": "11",
+        "price": 188100
+      },
+      {
+        "month": "12",
+        "price": 188100
       }
     ],
+    "blockedPeriods": [
+      {
+        "endDate": "2025-11-30",
+        "startDate": "2025-10-14"
+      }
+    ],
+    "listingReference": "referenceBla",
     "minimumStayMonths": 3
   }
 ]
