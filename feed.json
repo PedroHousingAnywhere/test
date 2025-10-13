@@ -2,6 +2,7 @@
   {
     "listingReference": "example_ref_123",
         "pricingType": "flat",
-        "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft"
+        "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
+        "currencyCode": "EUR"
   }
 ]
