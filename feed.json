@@ -11,6 +11,7 @@
         "currencyCode": "EUR"
   },
     {
-    "listingReference": "another_ref"
+    "listingReference": "another_ref",
+            "pricingType": "flat"
   }
 ]
