@@ -18,6 +18,7 @@
               "flatPrice": 100000,
               "description": "this is a description"
   },
+  {
   "listingReference": "latest_listing_ref",
             "pricingType": "flat",
   "flatPrice": 100000,
@@ -75,4 +76,5 @@
         "price": 1288100
       }
     ]
+  }
 ]
