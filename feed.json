@@ -17,5 +17,62 @@
         "currencyCode": "EUR",
               "flatPrice": 100000,
               "description": "this is a description"
-  }
+  },
+  "listingReference": "latest_listing_ref",
+            "pricingType": "flat",
+  "flatPrice": 100000,
+              "address": "Kalfjeslaan 60A, 2623 AJ Delft",
+        "currencyCode": "EUR",
+              "description": "this is a place in Delft"
+  "pricingType": "monthly",
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 188100
+      },
+      {
+        "month": "2",
+        "price": 288100
+      },
+      {
+        "month": "3",
+        "price": 388100
+      },
+      {
+        "month": "4",
+        "price": 488100
+      },
+      {
+        "month": "5",
+        "price": 588100
+      },
+      {
+        "month": "6",
+        "price": 688100
+      },
+      {
+        "month": "7",
+        "price": 788100
+      },
+      {
+        "month": "8",
+        "price": 888100
+      },
+      {
+        "month": "9",
+        "price": 988100
+      },
+      {
+        "month": "10",
+        "price": 1088100
+      },
+      {
+        "month": "11",
+        "price": 1188100
+      },
+      {
+        "month": "12",
+        "price": 1288100
+      }
+    ]
 ]
