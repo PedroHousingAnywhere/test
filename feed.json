@@ -4,28 +4,27 @@
     "alias": "this is an alias",
     "kind": "entire_place",
     "type": "apartment",
-      "pricingType": "flat",
-        "flatPrice": 100000,
-        "description": "beautiful apartment near the beach",
-        "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-        "currencyCode": "EUR"
-  },
-    {
-    "listingReference": "another_ref",
-            "pricingType": "flat",
-              "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-        "currencyCode": "EUR",
-              "flatPrice": 100000,
-              "description": "this is a description"
+    "pricingType": "flat",
+    "flatPrice": 100000,
+    "description": "beautiful apartment near the beach",
+    "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
+    "currencyCode": "EUR"
   },
   {
-  "listingReference": "latest_listing_ref",
-            "pricingType": "flat",
-  "flatPrice": 100000,
-              "address": "Kalfjeslaan 60A, 2623 AJ Delft",
-        "currencyCode": "EUR",
-              "description": "this is a place in Delft",
-  "pricingType": "monthly",
+    "listingReference": "another_ref",
+    "pricingType": "flat",
+    "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
+    "currencyCode": "EUR",
+    "flatPrice": 100000,
+    "description": "this is a description"
+  },
+  {
+    "listingReference": "latest_listing_ref",
+    "pricingType": "monthly",
+    "flatPrice": 100000,
+    "address": "Kalfjeslaan 60A, 2623 AJ Delft",
+    "currencyCode": "EUR",
+    "description": "this is a place in Delft",
     "monthlyPrices": [
       {
         "month": "1",
@@ -76,5 +75,124 @@
         "price": 1288100
       }
     ]
+  },
+  {
+    "listingReference": "example_listing_001",
+    "alias": "the_big_house",
+    "type": "house",
+    "kind": "entire_place",
+    "description": "Entire beach house.\n Welcome to a beautiful mansion by the beach.",
+    "address": "Vuurtorenweg 176-182, 1795 LN De Cocksdorp",
+    "currencyCode": "EUR",
+    "pricingType": "monthly",
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 80000
+      },
+      {
+        "month": "2",
+        "price": 80000
+      },
+      {
+        "month": "3",
+        "price": 80000
+      },
+      {
+        "month": "4",
+        "price": 85000
+      },
+      {
+        "month": "5",
+        "price": 85000
+      },
+      {
+        "month": "6",
+        "price": 95000
+      },
+      {
+        "month": "7",
+        "price": 100000
+      },
+      {
+        "month": "8",
+        "price": 120000
+      },
+      {
+        "month": "9",
+        "price": 120000
+      },
+      {
+        "month": "10",
+        "price": 115000
+      },
+      {
+        "month": "11",
+        "price": 95000
+      },
+      {
+        "month": "12",
+        "price": 90000
+      }
+    ],
+    "blockedPeriods": [
+        {
+            "startDate": "2025-12-01",
+            "endDate": "2019-12-31"
+        },
+        {
+            "startDate": "2026-07-01",
+            "endDate": "2019-09-30"
+        }
+    ],
+    "costs": {
+  "security-deposit": {
+    "value": 80000,
+    "payableBy": "tenant",
+    "payableAt": "move-in",
+    "required": true,
+    "refundable": true,
+    "isEstimated": false
+  },
+  "administration-fee": {
+    "value": 25000,
+    "payableBy": "tenant",
+    "payableAt": "move-in",
+    "required": true,
+    "refundable": false,
+    "isEstimated": false
+  },
+  "electricity-bill":{
+    "value": 1000,
+    "payableBy":"tenant",
+    "payableAt":"weekly",
+    "required":true,
+    "refundable":false,
+    "isEstimated": true
+  },
+  "other-additional-costs": {
+    "value": 10000,
+    "payableBy": "tenant",
+    "payableAt": "move-out",
+    "required": false,
+    "refundable": false,
+    "isEstimated": false
+  }
+},
+    "minimumStayMonths": 1,
+    "maximumStayMonths": 12,
+    "moveInWindow": 15,
+    "images": [
+    "https://your-domain.com/images/prop-123456-1.jpg",
+    "https://your-domain.com/images/prop-123456-2.jpg",
+    "https://your-domain.com/images/prop-123456-3.jpg"
+  ],
+    "lastUpdated": "2025-10-15T10:00:00Z",
+      "listingUrl": "https://your-domain.com/listings/PROP-123456",
+  "minAge": 18,
+  "maxAge": 35,
+"facilities": {
+      "bedroomSize": 15
+  },
   }
 ]
