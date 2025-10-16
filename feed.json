@@ -1,25 +1,6 @@
 [
   {
-    "listingReference": "example_ref_123",
-    "alias": "this is an alias",
-    "kind": "entire_place",
-    "type": "apartment",
-    "pricingType": "flat",
-    "flatPrice": 100000,
-    "description": "beautiful apartment near the beach",
-    "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-    "currencyCode": "EUR"
-  },
-  {
-    "listingReference": "another_ref",
-    "pricingType": "flat",
-    "address": "Van Leeuwenhoeksingel 42A, 2611 AC Delft",
-    "currencyCode": "EUR",
-    "flatPrice": 100000,
-    "description": "this is a description"
-  },
-  {
-    "listingReference": "latest_listing_ref",
+    "listingReference": "latest_listing_ref_1",
     "pricingType": "monthly",
     "flatPrice": 100000,
     "address": "Kalfjeslaan 60A, 2623 AJ Delft",
@@ -192,10 +173,7 @@
   "minAge": 18,
   "maxAge": 35,
 "facilities": {
-      "bedroomSize": 15,
-    "totalSize": 20,
-  "currentOccupancy":2,
-  "freePlaces":3
+      "bedroomSize": 10
   }
   }
 ]
