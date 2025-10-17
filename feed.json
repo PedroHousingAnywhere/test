@@ -117,105 +117,103 @@
       }
     ],
     "blockedPeriods": [
-        {
-            "startDate": "2025-12-01",
-            "endDate": "2019-12-31"
-        },
-        {
-            "startDate": "2026-07-01",
-            "endDate": "2019-09-30"
-        }
+      {
+        "startDate": "2025-12-01",
+        "endDate": "2019-12-31"
+      },
+      {
+        "startDate": "2026-07-01",
+        "endDate": "2019-09-30"
+      }
     ],
     "costs": {
-  "security-deposit": {
-    "value": 80000,
-    "payableBy": "tenant",
-    "payableAt": "move-in",
-    "required": true,
-    "refundable": true,
-    "isEstimated": false
-  },
-  "administration-fee": {
-    "value": 25000,
-    "payableBy": "tenant",
-    "payableAt": "move-in",
-    "required": true,
-    "refundable": false,
-    "isEstimated": false
-  },
-  "electricity-bill":{
-    "value": 1000,
-    "payableBy":"tenant",
-    "payableAt":"weekly",
-    "required":true,
-    "refundable":false,
-    "isEstimated": true
-  },
-  "other-additional-costs": {
-    "value": 10000,
-    "payableBy": "tenant",
-    "payableAt": "move-out",
-    "required": false,
-    "refundable": false,
-    "isEstimated": false
-  }
-},
+      "security-deposit": {
+        "value": 80000,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": true,
+        "isEstimated": false
+      },
+      "administration-fee": {
+        "value": 25000,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+      "electricity-bill": {
+        "value": 1000,
+        "payableBy": "tenant",
+        "payableAt": "weekly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": true
+      },
+      "other-additional-costs": {
+        "value": 10000,
+        "payableBy": "tenant",
+        "payableAt": "move-out",
+        "required": false,
+        "refundable": false,
+        "isEstimated": false
+      }
+    },
     "minimumStayMonths": 1,
     "maximumStayMonths": 12,
     "moveInWindow": 15,
     "images": [
-    "https://your-domain.com/images/prop-123456-1.jpg",
-    "https://your-domain.com/images/prop-123456-2.jpg",
-    "https://your-domain.com/images/prop-123456-3.jpg"
-  ],
+      "https://your-domain.com/images/prop-123456-1.jpg",
+      "https://your-domain.com/images/prop-123456-2.jpg",
+      "https://your-domain.com/images/prop-123456-3.jpg"
+    ],
     "lastUpdated": "2025-10-15T10:00:00Z",
-      "listingUrl": "https://your-domain.com/listings/PROP-123456",
-  "minAge": 18,
-  "maxAge": 35,
-"facilities": {
-  "totalSize": 120,
-  "bedroomSize": 33,
-  "currentOccupancy": 2,
-  "freePlaces": 1,
-  "allergyFriendly": true,
-  "housematesGender": "shared_w_both",
-  "registrationPossible": true,
-  "tenantStatus": "student",
-  "bedroomCount": 1,
-  "bedroomFurnished": true,
-  "bedroomLock": true,
-  "balconyTerrace": "private",
-  "basement": "shared",
-  "bathroom": "shared_w_both",
-  "garden": "private",
-  "kitchen": "shared",
-  "livingRoom": "shared",
-  "parking": "shared",
-  "toilet": "shared",
-  "kitchenware": "shared",
-  "wheelchairAccessible": false,
-  "ac": true,
-  "bed": true,
-  "closet": true,
-  "desk": true,
-  "dishwasher": false,
-  "dryer": true,
-  "flooring": "wood",
-  "internet": true,
-  "livingRoomFurnished": true,
-  "tv": true,
-  "washingMachine": true,
-  "wifi": true,
-  "animalAllowed": "discussable",
-  "cleaningCommon": true,
-  "cleaningPrivate": false,
-  "playMusic": "discussable",
-  "smokingAllowed": "outside_only",
-  "preferredGender": "female",
-  "couplesAllowed": false,
-  "heating": "central"
-}
-
-
+    "listingUrl": "https://your-domain.com/listings/PROP-123456",
+    "minAge": 18,
+    "maxAge": 35,
+    "facilities": {
+      "totalSize": 120,
+      "bedroomSize": 33,
+      "currentOccupancy": 6,
+      "freePlaces": 4,
+      "allergyFriendly": false,
+      "housematesGender": "shared_w_girls",
+      "registrationPossible": true,
+      "tenantStatus": "working",
+      "bedroomCount": 5,
+      "bedroomFurnished": true,
+      "bedroomLock": true,
+      "balconyTerrace": "private",
+      "basement": "shared",
+      "bathroom": "shared_w_boys",
+      "garden": "private",
+      "kitchen": "shared",
+      "livingRoom": "shared",
+      "parking": "shared",
+      "toilet": "shared",
+      "kitchenware": "shared",
+      "wheelchairAccessible": true,
+      "ac": true,
+      "bed": true,
+      "closet": true,
+      "desk": true,
+      "dishwasher": false,
+      "dryer": true,
+      "flooring": "carpet",
+      "internet": true,
+      "livingRoomFurnished": true,
+      "tv": true,
+      "washingMachine": true,
+      "wifi": true,
+      "animalAllowed": "yes",
+      "cleaningCommon": true,
+      "cleaningPrivate": false,
+      "playMusic": "discussable",
+      "smokingAllowed": "outside_only",
+      "preferredGender": "female",
+      "couplesAllowed": false,
+      "heating": "central"
+    }
   }
 ]
