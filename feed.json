@@ -173,7 +173,50 @@
   "minAge": 18,
   "maxAge": 35,
 "facilities": {
-      "bedroomSize": 10
-  }
+  "totalSize": 120,
+  "bedroomSize": 24,
+  "bedroomSize": 32,
+  "currentOccupancy": 2,
+  "freePlaces": 1,
+  "allergyFriendly": true,
+  "housematesGender": "shared_w_both",
+  "registrationPossible": true,
+  "tenantStatus": "student",
+  "bedroomCount": 4,
+  "bedroomFurnished": true,
+  "bedroomLock": true,
+  "balconyTerrace": "private",
+  "basement": "shared",
+  "bathroom": "shared_w_both",
+  "garden": "private",
+  "kitchen": "shared",
+  "livingRoom": "shared",
+  "parking": "shared",
+  "toilet": "shared",
+  "kitchenware": "shared",
+  "wheelchairAccessible": false,
+  "ac": true,
+  "bed": true,
+  "closet": true,
+  "desk": true,
+  "dishwasher": false,
+  "dryer": true,
+  "flooring": "wood",
+  "internet": true,
+  "livingRoomFurnished": true,
+  "tv": true,
+  "washingMachine": true,
+  "wifi": true,
+  "animalAllowed": "discussable",
+  "cleaningCommon": true,
+  "cleaningPrivate": false,
+  "playMusic": "discussable",
+  "smokingAllowed": "outside_only",
+  "preferredGender": "female",
+  "couplesAllowed": false,
+  "heating": "central"
+}
+
+
   }
 ]
