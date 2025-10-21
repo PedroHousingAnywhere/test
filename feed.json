@@ -1,69 +1,11 @@
 [
   {
-    "listingReference": "latest_listing_ref_1",
-    "pricingType": "monthly",
-    "flatPrice": 100000,
-    "address": "Kalfjeslaan 60A, 2623 AJ Delft",
-    "currencyCode": "EUR",
-    "description": "this is a place in Delft",
-    "monthlyPrices": [
-      {
-        "month": "1",
-        "price": 188100
-      },
-      {
-        "month": "2",
-        "price": 288100
-      },
-      {
-        "month": "3",
-        "price": 388100
-      },
-      {
-        "month": "4",
-        "price": 488100
-      },
-      {
-        "month": "5",
-        "price": 588100
-      },
-      {
-        "month": "6",
-        "price": 688100
-      },
-      {
-        "month": "7",
-        "price": 788100
-      },
-      {
-        "month": "8",
-        "price": 888100
-      },
-      {
-        "month": "9",
-        "price": 988100
-      },
-      {
-        "month": "10",
-        "price": 1088100
-      },
-      {
-        "month": "11",
-        "price": 1188100
-      },
-      {
-        "month": "12",
-        "price": 1288100
-      }
-    ]
-  },
-  {
-    "listingReference": "example_listing_001",
+    "listingReference": "example_listing_0001",
     "alias": "the_big_house",
     "type": "house",
     "kind": "shared_room",
-    "description": "Entire beach house.\n Welcome to a beautiful mansion by the beach.",
-    "address": "Vuurtorenweg 176-182, 1795 LN De Cocksdorp",
+    "description": "Historical beach house.\n Welcome to a beautiful mansion by the beach where you will have a private and cozy room",
+    "address": "Blaak 555, 3011 GL Rotterdam, Netherlands",
     "currencyCode": "EUR",
     "pricingType": "monthly",
     "monthlyPrices": [
@@ -168,7 +110,6 @@
       "https://your-domain.com/images/prop-123456-2.jpg",
       "https://your-domain.com/images/prop-123456-3.jpg"
     ],
-    "lastUpdated": "2025-10-15T10:00:00Z",
     "listingUrl": "https://your-domain.com/listings/PROP-123456",
     "minAge": 18,
     "maxAge": 35,
@@ -212,7 +153,7 @@
       "playMusic": "discussable",
       "smokingAllowed": "outside_only",
       "preferredGender": "female",
-      "couplesAllowed": false,
+      "couplesAllowed": true,
       "heating": "central"
     }
   }
