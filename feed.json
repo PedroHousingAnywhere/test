@@ -68,6 +68,14 @@
         "endDate": "2026-09-30"
       }
     ],
+    "strictRentalPeriods": [
+    {
+      "price": 100000,
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-01",
+      "moveInEndDate": "2026-02-01"
+    }
+  ],
     "costs": {
       "security-deposit": {
         "value": 80000,
