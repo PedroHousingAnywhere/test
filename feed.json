@@ -336,11 +336,11 @@
     "listingReference": "1549123",
     "type": "apartment",
     "kind": "private_room",
-    "address": "TEST ADDRESS 123",
+    "address": "Plaza Mayor, Centro, Madrid, Spain",
     "description": "Esta es una descripción de prueba con más de 50 caracteres para pasar validación.",
-      "pricingType": "flat",
-      "flatPrice": 120000,
-      "currencyCode": "EUR",
+    "pricingType": "flat",
+    "flatPrice": 120000,
+    "currencyCode": "EUR",
     "images": [],
     "blockedPeriods": [
       {
