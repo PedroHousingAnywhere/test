@@ -323,7 +323,7 @@
       "washingMachine": true,
       "wifi": true,
       "animalAllowed": "yes",
-      "cleaningCommon": true,
+      "cleaningCommon": false,
       "cleaningPrivate": false,
       "playMusic": "discussable",
       "smokingAllowed": "outside_only",
