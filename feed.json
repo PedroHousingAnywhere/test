@@ -260,12 +260,12 @@
         "isEstimated": true
       },
        "cleaning-fee": {
-        "value": 60000,
+        "value": 50000,
         "payableBy": "tenant",
-        "payableAt": "move-out",
+        "payableAt": "bi-weekly",
         "required": true,
         "refundable": false,
-        "isEstimated": false
+        "isEstimated": true
       },
      "other-additional-costs": {
         "value": 70000,
