@@ -343,6 +343,7 @@
     "flatPrice": 120000,
     "currencyCode": "EUR",
     "images": [],
+    "NRA":"whatever",
     "blockedPeriods": [
       {
         "startDate": "2025-08-01",
