@@ -164,7 +164,7 @@
       "couplesAllowed": true,
       "heating": "central"
     },
-    "NRA":"ESREG2026ALQ000000123456789VIV000000000987654321"
+    "NRA":"ESREG2026ALQ000000123456789VIV00000000098765432100000"
   },
   {
     "listingReference": "example_listing_00002",
@@ -343,7 +343,7 @@
     "flatPrice": 120000,
     "currencyCode": "EUR",
     "images": [],
-    "NRA":"whatever",
+    "NRA":"00023254235436543265342643254325432543253426432643153",
     "blockedPeriods": [
       {
         "startDate": "2025-08-01",
