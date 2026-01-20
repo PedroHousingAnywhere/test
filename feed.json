@@ -5,7 +5,7 @@
     "type": "house",
     "kind": "shared_room",
     "description": "Historical beach house.\n Welcome to a beautiful mansion by the beach where you will have a private and cozy room",
-    "address": "Blaak 555, 3011 GL Rotterdam, Netherlands",
+    "address": "C. de Montalbán, 1, Retiro, 28014 Madrid, Spain",
     "currencyCode": "EUR",
     "pricingType": "monthly",
     "monthlyPrices": [
@@ -164,7 +164,7 @@
       "couplesAllowed": true,
       "heating": "central"
     },
-    "NRA":"NRAstring"
+    "NRA":"blablabla"
   },
   {
     "listingReference": "example_listing_00002",
