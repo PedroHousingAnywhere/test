@@ -1,6 +1,6 @@
 [
   {
-    "listingReference": "example_listing_00001",
+    "listingReference": "example_listing_000001",
     "alias": "the_big_house",
     "type": "house",
     "kind": "shared_room",
@@ -163,7 +163,8 @@
       "preferredGender": "female",
       "couplesAllowed": true,
       "heating": "central"
-    }
+    },
+    "NRA":"NRAstring"
   },
   {
     "listingReference": "example_listing_00002",
