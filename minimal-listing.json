@@ -4,6 +4,7 @@
     "description": "This is the description",
     "address": "Av. Gustave Eiffel, 75007 Paris, France",
     "pricingType": "flat",
-    "flatPrice": 750000
+    "flatPrice": 750000,
+    "currencyCode": "EUR"
   }
 ]
