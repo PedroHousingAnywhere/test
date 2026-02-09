@@ -1,5 +1,7 @@
 [
  {
+        "address":"Av. Gustave Eiffel, 75007 Paris, France",
+        "description":"The tower is 330 metres (1,083 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris",
         "availableFrom": "2026-05-30",
         "minStayPeriod": 5,
         "maxStayPeriod": 11,
