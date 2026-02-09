@@ -1,0 +1,67 @@
+ {
+        "availableFrom": "2026-05-30",
+        "minStayPeriod": 5,
+        "maxStayPeriod": 11,
+        "isRentFixed": true,
+        "rent": 800,
+        "capacity": 1,
+        "extraPricePerTenant": 0,
+        "adminFeeValue": 420,
+        "cleaningFeeValue": 0,
+        "billsIncluded": false,
+        "billsIncludedMaxValue": 95,
+        "depositValue": 800,
+        "externalId": "ut1539099",
+        "createdAt": "2025-09-25T13:42:31.150Z",
+        "updatedAt": "2025-09-26T13:31:28.195Z",
+        "unavailabilities": [
+            {
+                "from": "2025-09-26",
+                "to": "2026-05-29",
+                "reason": "Unavailable",
+                "createdAt": "2025-09-26T13:31:28.211Z",
+                "updatedAt": "2025-09-26T13:31:28.215Z"
+            }
+        ],
+        "bookingWindows": [],
+        "rentsPerMonth": [],
+        "landlordEmail": "p.valente+27@housinganywhere.com",
+        "costs": [
+            {
+                "type": "security-deposit",
+                "value": 800,
+                "payableAt": "move-in",
+                "payableBy": "tenant",
+                "refundable": true,
+                "estimated": false,
+                "mandatory": true
+            },
+            {
+                "type": "administration-fee",
+                "value": 420,
+                "payableAt": "move-in",
+                "payableBy": "tenant",
+                "refundable": false,
+                "estimated": false,
+                "mandatory": true
+            },
+            {
+                "type": "cleaning-fee",
+                "value": 0,
+                "payableAt": "monthly",
+                "payableBy": "landlord",
+                "refundable": false,
+                "estimated": false,
+                "mandatory": true
+            },
+            {
+                "type": "utility-bills",
+                "value": 95,
+                "payableAt": "monthly",
+                "payableBy": "tenant",
+                "refundable": false,
+                "estimated": true,
+                "mandatory": true
+            }
+        ]
+    }
