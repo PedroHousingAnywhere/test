@@ -525,7 +525,7 @@
     "maxAge": 35,
     "payoutMethodName": "Bank account 3",
     "registrationNumber": "ESREG2026ALQ000000123456789BLA00000000098765432102222",
-    "floor": 2,
+    "floor": 0,
     "apartmentNumber": "5A",
     "facilities": {
       "totalSize": 120,
