@@ -599,5 +599,172 @@
     "currentOccupancy": 1,
     "freePlaces": 3
     }
+  },
+  {
+    "listingReference": "301_T2",
+    "description": "This cozy house in Carcavelos offers comfort and practicality in a welcoming and well-connected neighborhood. Featuring 2 bedrooms and 1 bathroom, it provides a inviting living environment ideal for both relaxation and everyday life. The residence also includes a fully equipped kitchen, perfect&nbsp;convenient living.With its warm atmosphere and practical layout, this home is ideal for those who value both comfort and location. Shops, cafés, restaurants, and essential services are all within easy reach. The nearest supermarket is about a 2-minute walk, and the closest bus stop is approximately a 3-minute walk, ensuring convenient access to transport and local amenities.",
+    "address": "Rua Gonçalves Crespo 75 RC casa D, Carcavelos",
+    "currencyCode": "EUR",
+    "pricingType": "monthly",
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 185500
+      },
+      {
+        "month": "2",
+        "price": 170500
+      },
+      {
+        "month": "3",
+        "price": 170500
+      },
+      {
+        "month": "4",
+        "price": 170500
+      },
+      {
+        "month": "5",
+        "price": 170500
+      },
+      {
+        "month": "6",
+        "price": 170500
+      },
+      {
+        "month": "7",
+        "price": 170500
+      },
+      {
+        "month": "8",
+        "price": 185500
+      },
+      {
+        "month": "9",
+        "price": 185500
+      },
+      {
+        "month": "10",
+        "price": 185500
+      },
+      {
+        "month": "11",
+        "price": 185500
+      },
+      {
+        "month": "12",
+        "price": 185500
+      }
+    ],
+    "type": "apartment",
+    "kind": "entire_place",
+    "alias": "301_T2",
+    "costs": {
+      "security-deposit": {
+        "value": 85000,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": true,
+        "isEstimated": false
+      },
+      "administration-fee": {
+        "value": 37500,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+        "cleaning-fee": {
+        "value": 2500,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+      "electricity-bill": {
+        "value": 2500,
+        "payableBy": "included-in-rent",
+        "payableAt": "monthly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+       "water-bill": {
+        "value": 2500,
+        "payableBy": "included-in-rent",
+        "payableAt": "monthly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+       "internet-bill": {
+        "value": 2500,
+        "payableBy": "included-in-rent",
+        "payableAt": "monthly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+        "gas-bill": {
+        "value": 2500,
+        "payableBy": "included-in-rent",
+        "payableAt": "monthly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      }
+      },
+    "minimumStayMonths": 1,
+    "facilities": {
+      "bedroomCount": 0,
+      "bedroomFurnished": true,
+      "bedroomLock": true,
+      "bathroom": "shared",
+      "kitchen": "shared",
+      "livingRoom": "shared",
+      "wifi": true,
+      "internet": true,
+      "washingMachine": true,
+      "bed": true,
+      "animalAllowed": "no",
+      "cleaningService": true,
+      "registrationPossible": true,
+      "maxOccupants": 2,
+      "currentOccupancy": 3,
+      "freePlaces": 2
+    },
+    "images": [
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6655.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6656.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6657.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6658.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6659.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6660.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6661.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6662.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6663.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6664.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6665.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6666.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6667.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6668.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6669.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6670.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6671.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6672.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6673.webp",
+      "https://bem.colivingsoft.app/uploads/flats/111/er_DSC6674.webp"
+    ],
+    "listingUrl": "https://bem.colivingsoft.app/listings/301_T2",
+    "availableFrom": "2026-03-23",
+    "bathrooms": 1,
+    "genderRestriction": false,
+    "availableNow": true,
+    "availableItem": true,
+    "city": "cs-default",
+    "area": "Carcavelos"
   }
 ]
