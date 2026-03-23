@@ -685,7 +685,7 @@
         "isEstimated": false
       },
       "electricity-bill": {
-        "value": 2500,
+        "value": null,
         "payableBy": "included-in-rent",
         "payableAt": "monthly",
         "required": true,
@@ -693,7 +693,7 @@
         "isEstimated": false
       },
        "water-bill": {
-        "value": 2500,
+        "value": null,
         "payableBy": "included-in-rent",
         "payableAt": "monthly",
         "required": true,
@@ -701,7 +701,7 @@
         "isEstimated": false
       },
        "internet-bill": {
-        "value": 2500,
+        "value": null,
         "payableBy": "included-in-rent",
         "payableAt": "monthly",
         "required": true,
@@ -709,7 +709,7 @@
         "isEstimated": false
       },
         "gas-bill": {
-        "value": 2500,
+        "value": null,
         "payableBy": "included-in-rent",
         "payableAt": "monthly",
         "required": true,
