@@ -766,5 +766,170 @@
     "availableItem": true,
     "city": "cs-default",
     "area": "Carcavelos"
+  },
+  {
+    "listingReference": "spanish_listing_1",
+    "alias": "spanish_listing_1",
+    "type": "house",
+    "kind": "shared_room",
+    "description": "Bla bla blip blop I am a description i wonder if I've reached 50 characters blaaaaaaaa",
+    "address": "C. de Montalbán, 1, Retiro, 28014 Madrid, Spain",
+    "currencyCode": "EUR",
+    "pricingType": "monthly",
+    "monthlyPrices": [
+      {
+        "month": "1",
+        "price": 80000
+      },
+      {
+        "month": "2",
+        "price": 80000
+      },
+      {
+        "month": "3",
+        "price": 80000
+      },
+      {
+        "month": "4",
+        "price": 85000
+      },
+      {
+        "month": "5",
+        "price": 85000
+      },
+      {
+        "month": "6",
+        "price": 95000
+      },
+      {
+        "month": "7",
+        "price": 100000
+      },
+      {
+        "month": "8",
+        "price": 120000
+      },
+      {
+        "month": "9",
+        "price": 120000
+      },
+      {
+        "month": "10",
+        "price": 115000
+      },
+      {
+        "month": "11",
+        "price": 95000
+      },
+      {
+        "month": "12",
+        "price": 90000
+      }
+    ],
+    "blockedPeriods": [
+      {
+        "startDate": "2026-12-01",
+        "endDate": "2026-12-31"
+      },
+      {
+        "startDate": "2027-07-01",
+        "endDate": "2027-09-30"
+      }
+    ],
+    "strictRentalPeriods": [
+    {
+      "price": 100000,
+      "startDate": "2028-01-01",
+      "endDate": "2028-12-01",
+      "moveInEndDate": "2028-02-01"
+    }
+  ],
+    "costs": {
+      "security-deposit": {
+        "value": 80000,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": true,
+        "isEstimated": false
+      },
+      "administration-fee": {
+        "value": 25000,
+        "payableBy": "tenant",
+        "payableAt": "move-in",
+        "required": true,
+        "refundable": false,
+        "isEstimated": false
+      },
+      "electricity-bill": {
+        "value": 1000,
+        "payableBy": "tenant",
+        "payableAt": "monthly",
+        "required": true,
+        "refundable": false,
+        "isEstimated": true
+      },
+      "other-additional-costs": {
+        "value": 10000,
+        "payableBy": "tenant",
+        "payableAt": "move-out",
+        "required": false,
+        "refundable": false,
+        "isEstimated": false
+      }
+    },
+    "minimumStayMonths": 1,
+    "maximumStayMonths": 12,
+    "moveInWindow": 15,
+    "images": [
+      "https://your-domain.com/images/prop-123456-1.jpg",
+      "https://your-domain.com/images/prop-123456-2.jpg",
+      "https://your-domain.com/images/prop-123456-3.jpg"
+    ],
+    "minAge": 18,
+    "maxAge": 35,
+    "facilities": {
+      "totalSize": 120,
+      "bedroomSize": 14,
+      "currentOccupancy": 1,
+      "freePlaces": 3,
+      "allergyFriendly": true,
+      "housematesGender": "shared_w_girls",
+      "registrationPossible": true,
+      "tenantStatus": "working",
+      "bedroomCount": 4,
+      "bedroomFurnished": true,
+      "bedroomLock": true,
+      "balconyTerrace": "private",
+      "basement": "shared",
+      "bathroom": "shared_w_boys",
+      "garden": "private",
+      "kitchen": "shared",
+      "livingRoom": "shared",
+      "parking": "shared",
+      "toilet": "shared",
+      "kitchenware": "shared",
+      "wheelchairAccessible": true,
+      "ac": true,
+      "bed": true,
+      "closet": true,
+      "desk": true,
+      "dishwasher": false,
+      "dryer": true,
+      "flooring": "carpet",
+      "internet": true,
+      "livingRoomFurnished": true,
+      "tv": true,
+      "washingMachine": true,
+      "wifi": true,
+      "animalAllowed": "yes",
+      "cleaningCommon": false,
+      "cleaningPrivate": false,
+      "playMusic": "discussable",
+      "smokingAllowed": "outside_only",
+      "preferredGender": "female",
+      "couplesAllowed": true,
+      "heating": "central"
+    }
   }
 ]
